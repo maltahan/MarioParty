@@ -25,15 +25,36 @@ public class PlayerMovement : MonoBehaviour {
 
     void OnCollisionEnter(Collision c)
     {
-        if (c.gameObject.tag == "mo")
+        // how much the character should be knocked back
+        if (c.gameObject.tag == "mo1")
         {
-            // how much the character should be knocked back
-            var magnitude = 5000;
+            var magnitude = 0f;
             // calculate force vector
-            var force = transform.position - c.transform.position;
+            var force = (transform.position - c.transform.position);
             // normalize force vector to get direction only and trim magnitude
             force.Normalize();
-            gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
+            //c.gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
+            //gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
+            var other = c.rigidbody.velocity.magnitude;
+            var me = rigidbody.velocity.magnitude;
+            if (other > me)
+            {
+                magnitude = c.rigidbody.velocity.magnitude * 1000;
+                gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
+            }
+            else {
+                magnitude = rigidbody.velocity.magnitude * 1000;
+                gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
+            }
+            //gameObject.GetComponent<Rigidbody>().AddForce(c.rigidbody.velocity * magnitude);
+            //Vector3 forceVec = -this.rigidbody.velocity.normalized * magnitude;
+            //c.rigidbody.AddForce(forceVec, ForceMode.Acceleration);
+        }
+        //else if (gameObject.tag == "mo") {
+        //    c.gameObject.GetComponent<Rigidbody>().AddForce(this.rigidbody.velocity * magnitude);
+        //}
+        if (c.gameObject.tag == "water") {
+            ScoreCounter.ScoreValue += 10;
         }
 
     }
