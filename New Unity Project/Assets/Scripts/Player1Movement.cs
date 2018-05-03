@@ -33,8 +33,6 @@ public class Player1Movement : MonoBehaviour {
             var force = (transform.position - c.transform.position);
             // normalize force vector to get direction only and trim magnitude
             force.Normalize();
-            //c.gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
-            //gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
             var other = c.rigidbody.velocity.magnitude;
             var me = rigidbody.velocity.magnitude;
             if (other > me)
@@ -47,16 +45,10 @@ public class Player1Movement : MonoBehaviour {
                 magnitude = rigidbody.velocity.magnitude * 1000;
                 gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
             }
-
-            //Vector3 forceVec = -this.rigidbody.velocity.normalized * magnitude;
-            //c.rigidbody.AddForce(forceVec, ForceMode.Acceleration);
         }
-        //else if(gameObject.tag == "mo1") {
-        //    c.gameObject.GetComponent<Rigidbody>().AddForce(this.rigidbody.velocity * magnitude);
-        //}
-        if (c.gameObject.tag == "water")
+        else if (c.gameObject.tag == "water")
         {
-            ScoreCounter.ScoreValue += 10;
+            player2ScoreCounter.ScoreValue += 10;
             
         }
 
