@@ -48,8 +48,9 @@ public class Player1Movement : MonoBehaviour {
         }
         else if (c.gameObject.tag == "water")
         {
-            player2ScoreCounter.ScoreValue += 10;
-            
+            player2ScoreCounter.ScoreValue -= 25;
+            transform.position = new Vector3(3.14f, 14.69f, 8.46f);
+
         }
 
     }

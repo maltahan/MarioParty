@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class player2ScoreCounter : MonoBehaviour {
 
     // Use this for initialization
-    public static int ScoreValue = 0;
+    public static int ScoreValue = 100;
     Text Score;
     void Start()
     {

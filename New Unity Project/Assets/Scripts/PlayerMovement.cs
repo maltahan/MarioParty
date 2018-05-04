@@ -6,16 +6,14 @@ public class PlayerMovement : MonoBehaviour {
 
     public float moveSpeed;
     public Vector3 input;
-    float pushPower = 2.0f;
     Rigidbody rigidbody;
     // Use this for initialization
     void Start () {
-
         rigidbody = GetComponent<Rigidbody>();
     }
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update () {
         input = new Vector3(Input.GetAxisRaw("Horizontal"),0,Input.GetAxisRaw("Vertical"));
        
         if (rigidbody.velocity.magnitude < moveSpeed) {
@@ -45,8 +43,9 @@ public class PlayerMovement : MonoBehaviour {
                 gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
             }
         }
-       else if (c.gameObject.tag == "water") {
-            player1ScoreCounter.ScoreValue += 10;
+       else if (c.gameObject.tag == "water") {           
+            player1ScoreCounter.ScoreValue -= 25;
+            transform.position = new Vector3(3f, 16f, 0f);
         }
 
     }
