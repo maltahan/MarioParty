@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class player2ScoreCounter : MonoBehaviour {
 
     // Use this for initialization
-    public static int ScoreValue = 100;
+    public static int ScoreValue = 50;
     Text Score;
     void Start()
     {
@@ -16,6 +16,6 @@ public class player2ScoreCounter : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        Score.text = "Score" + ScoreValue;
+        Score.text = "Score " + ScoreValue;
     }
 }

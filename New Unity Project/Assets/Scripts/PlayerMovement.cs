@@ -24,7 +24,8 @@ public class PlayerMovement : MonoBehaviour {
     void OnCollisionEnter(Collision c)
     {
         // how much the character should be knocked back
-        if (c.gameObject.tag == "mo1")
+        string tag = c.gameObject.tag;
+        if (tag.Equals("mo1") || tag.Equals("mo2"))
         {
             var magnitude = 0f;
             // calculate force vector
@@ -43,9 +44,13 @@ public class PlayerMovement : MonoBehaviour {
                 gameObject.GetComponent<Rigidbody>().AddForce(force * magnitude);
             }
         }
-       else if (c.gameObject.tag == "water") {           
+        if (c.gameObject.tag == "water") {           
             player1ScoreCounter.ScoreValue -= 25;
             transform.position = new Vector3(3f, 16f, 0f);
+        }
+        if (player1ScoreCounter.ScoreValue == 0) {
+            winnerScript.winnerList.Remove("Black");
+            Destroy(gameObject);
         }
 
     }

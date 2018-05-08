@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class player1ScoreCounter : MonoBehaviour {
+public class Player3ScoreCounter : MonoBehaviour {
 
     // Use this for initialization
     public static int ScoreValue = 50;

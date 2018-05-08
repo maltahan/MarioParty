@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player1Movement : MonoBehaviour
+public class Player3Movement : MonoBehaviour
 {
 
     public float moveSpeed;
@@ -17,7 +17,7 @@ public class Player1Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        input = new Vector3(Input.GetAxisRaw("newHorizontal"), 0, Input.GetAxisRaw("newVertical"));
+        input = new Vector3(Input.GetAxisRaw("ThirdPlayerHorizontal"), 0, Input.GetAxisRaw("ThirdPlayerVertical"));
 
         if (rigidbody.velocity.magnitude < moveSpeed)
         {
@@ -28,7 +28,7 @@ public class Player1Movement : MonoBehaviour
     {
         // how much the character should be knocked back
         string tag = c.gameObject.tag;
-        if (tag.Equals("mo") || tag.Equals("mo2"))
+        if (tag.Equals("mo") || tag.Equals("mo1"))
         {
             var magnitude = 0f;
             // calculate force vector
@@ -50,16 +50,15 @@ public class Player1Movement : MonoBehaviour
         }
         if (c.gameObject.tag == "water")
         {
-            player2ScoreCounter.ScoreValue -= 25;
-            transform.position = new Vector3(-3.14f, 14.69f, 3.46f);
+            Player3ScoreCounter.ScoreValue -= 25;
+            transform.position = new Vector3(-5f, 15f, 0f);
 
         }
-        if (player2ScoreCounter.ScoreValue == 0)
+        if (Player3ScoreCounter.ScoreValue == 0)
         {
-            winnerScript.winnerList.Remove("Red");
+            winnerScript.winnerList.Remove("Green");
             Destroy(gameObject);
         }
 
     }
 }
-

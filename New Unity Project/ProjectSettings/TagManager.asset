@@ -7,6 +7,7 @@ TagManager:
   - mo
   - water
   - mo1
+  - mo2
   layers:
   - Default
   - TransparentFX
