@@ -20,6 +20,7 @@ MonoBehaviour:
     y: 30
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 926
   m_MinSize: {x: 887, y: 342}
@@ -29,6 +30,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
     width: 1536
     height: 731
   m_MinSize: {x: 881, y: 492}
@@ -36,6 +39,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 145
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -63,11 +69,14 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 928
     y: 103
     width: 644
     height: 634
 =======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     x: 870
@@ -76,6 +85,9 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -89,6 +101,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -322
     m_HBaseRangeMax: 322
     m_VBaseRangeMin: -308.5
@@ -96,11 +109,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
     m_HBaseRangeMin: -193.5
     m_HBaseRangeMax: 193.5
     m_VBaseRangeMin: -211
     m_VBaseRangeMax: 211
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -122,10 +140,20 @@ MonoBehaviour:
       y: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 644
       height: 617
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 322, y: 308.5}
+=======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+      width: 387
+      height: 422
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 193.5, y: 211}
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
       width: 387
       height: 422
@@ -133,10 +161,6 @@ MonoBehaviour:
     m_Translation: {x: 193.5, y: 211}
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
-      width: 387
-      height: 422
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 193.5, y: 211}
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -146,6 +170,7 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -322
       y: -308.5
       width: 644
@@ -153,11 +178,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
       x: -193.5
       y: -211
       width: 387
       height: 422
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -167,7 +197,11 @@ MonoBehaviour:
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 644, y: 634}
+=======
+  m_LastWindowPixelSize: {x: 387, y: 439}
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
   m_LastWindowPixelSize: {x: 387, y: 439}
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -197,6 +231,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1574
     height: 926
   m_MinSize: {x: 610, y: 342}
@@ -206,6 +241,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
     width: 1259
     height: 731
   m_MinSize: {x: 604, y: 492}
@@ -213,6 +250,9 @@ MonoBehaviour:
   vertical: 1
   controlID: 123
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -237,6 +277,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1574
     height: 655
   m_MinSize: {x: 610, y: 221}
@@ -246,6 +287,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
     width: 1259
     height: 460
   m_MinSize: {x: 604, y: 221}
@@ -253,6 +296,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 124
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -274,8 +320,13 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 252
     height: 655
+=======
+    width: 202
+    height: 460
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
     width: 202
     height: 460
@@ -316,6 +367,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 103
     width: 250
     height: 634
@@ -324,6 +376,20 @@ MonoBehaviour:
     m_SelectedIDs: d62c0000
     m_LastClickedID: 11478
     m_ExpandedIDs: 6aecfeffac84ffffa6fbffff00000000062b0000282b0000322b0000002d0000
+=======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+    y: 92
+    width: 200
+    height: 439
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9efbffff00000000
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
     y: 92
     width: 200
@@ -336,15 +402,6 @@ MonoBehaviour:
     m_ExpandedIDs: 9efbffff00000000
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
-    y: 92
-    width: 200
-    height: 439
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -384,6 +441,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 252
     y: 0
     width: 674
@@ -397,11 +455,18 @@ MonoBehaviour:
     x: 202
     y: 0
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+    x: 202
+    y: 0
+>>>>>>> parent of 5446fad... Started Working on Main Menu
     width: 666
     height: 460
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -436,11 +501,14 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 254
     y: 103
     width: 670
     height: 634
 =======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     x: 204
@@ -449,6 +517,9 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -460,9 +531,15 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -7.191882, y: -6.2248573, z: 20.715982}
     speed: 2
     m_Value: {x: -7.191882, y: -6.2248573, z: 20.715982}
+=======
+    m_Target: {x: 10, y: 13, z: 0}
+    speed: 2
+    m_Value: {x: 10, y: 13, z: 0}
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
     m_Target: {x: 10, y: 13, z: 0}
     speed: 2
@@ -498,6 +575,7 @@ MonoBehaviour:
   m_Rotation:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.25682896, y: 0.09375508, z: -0.02504151, w: -0.9615745}
     speed: 2
     m_Value: {x: -0.25682896, y: 0.09375508, z: -0.02504151, w: -0.9615745}
@@ -518,6 +596,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+    m_Target: {x: 0.03258381, y: 0.9129749, z: -0.074397735, w: 0.3998502}
+    speed: 2
+    m_Value: {x: 0.032583807, y: 0.91297483, z: -0.074397735, w: 0.3998502}
+  m_Size:
+    m_Target: 24.65794
+    speed: 2
+    m_Value: 24.65794
 >>>>>>> parent of 5446fad... Started Working on Main Menu
   m_Ortho:
     m_Target: 0
@@ -633,10 +720,17 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 926
     y: 0
     width: 648
     height: 655
+=======
+    x: 868
+    y: 0
+    width: 391
+    height: 460
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
     x: 868
     y: 0
@@ -673,6 +767,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 655
     width: 1574
     height: 271
@@ -680,6 +775,8 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
 =======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     y: 460
@@ -720,10 +817,13 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 758
     width: 1572
     height: 250
 =======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     y: 552
@@ -731,6 +831,9 @@ MonoBehaviour:
     height: 250
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -746,6 +849,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - Assets/Standard Assets/CrossPlatformInput/Sprites
@@ -765,6 +869,13 @@ MonoBehaviour:
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/Scripts
+>>>>>>> parent of 5446fad... Started Working on Main Menu
   m_LastFoldersGridSize: 16
   m_LastProjectPath: F:\MasterComputerScience\SecondSemester\Design and Graphics Programming\Project\MarioParty\MarioParty\New
     Unity Project
@@ -781,6 +892,9 @@ MonoBehaviour:
     m_LastClickedID: 10576
     m_ExpandedIDs: 00000000042800000a2e000000ca9a3bffffff7f
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -813,7 +927,11 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000c227000070290000542a0000782a00006c2b000000ca9a3bffffff7f
+=======
+    m_ExpandedIDs: 00000000042800000a2e0000
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
     m_ExpandedIDs: 00000000042800000a2e0000
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -849,7 +967,11 @@ MonoBehaviour:
     m_HadKeyboardFocusLastEvent: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: 185900007e590000d6250000c6230000ca2300005c250000b23c0100903100001a290000762800007a270000000000004c2d0000
+=======
+    m_ExpandedInstanceIDs: 185900007e590000d6250000c6230000ca2300005c25000000000000b23c0100903100001a290000762800007a270000
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
     m_ExpandedInstanceIDs: 185900007e590000d6250000c6230000ca2300005c25000000000000b23c0100903100001a290000762800007a270000
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -915,6 +1037,9 @@ MonoBehaviour:
     height: 318
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -1053,6 +1178,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1574
     y: 0
     width: 346
@@ -1066,11 +1192,18 @@ MonoBehaviour:
     x: 1259
     y: 0
 >>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
+    x: 1259
+    y: 0
+>>>>>>> parent of 5446fad... Started Working on Main Menu
     width: 277
     height: 731
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
@@ -1104,11 +1237,14 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1576
     y: 103
     width: 344
     height: 905
 =======
+=======
+>>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
     x: 1261
@@ -1117,6 +1253,9 @@ MonoBehaviour:
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5446fad... Started Working on Main Menu
+=======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
 =======
 >>>>>>> parent of 5446fad... Started Working on Main Menu
